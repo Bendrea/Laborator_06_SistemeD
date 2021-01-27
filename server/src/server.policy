@@ -1,0 +1,5 @@
+grant codeBase "file:/home/ccostea/books/sdi/08/build/" {
+ permission java.security.AllPermission;
+};
+
+
